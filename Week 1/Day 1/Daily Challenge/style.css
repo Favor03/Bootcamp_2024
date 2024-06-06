@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.manu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600px;
+    font-size: 20px;
+
+}
+
+.manu {
+    display: flex;
+    gap: 15px;
+}
+
+.container h1 {
+    font-size: 70px;
+    letter-spacing: 10px;
+}
+
+.container {
+    padding-top: 200px;
+    margin-left: 50px;
+
+}
+
+.container p {
+    width: 400px;
+}
+
+body {
+    background-image: url(thor.jpg);
+    background-size: cover;
+
+}
