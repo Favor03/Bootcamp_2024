@@ -1,0 +1,26 @@
+.flag{
+    height: 300px;
+    width: 600px;
+    border: 2px solid;
+    display: flex;
+
+}
+
+.flag .blue {
+    background-color: blue;
+    height: 100%;
+    width: 33%;
+}
+
+.flag .white {
+    background-color: white;
+    height: 100%;
+    width: 34%;
+
+}
+
+.flag .red {
+    background-color: red;
+    height: 100%;
+    width: 33%;
+}

@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+p {
+    color: rgb(234, 0, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+div {
+    background-image: url(../Day2/Vacations/images/image1.jpg);
+    width: 219px;
+    height: 200px;
+}
+body {
+    background-image: url(../Day2/Vacations/images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
